@@ -1,6 +1,6 @@
 #  Evaluación económica
 
-Los datos se obtuvieron de un proyecto basado en una planta de producción de una bebida alcohólica enlatada tipo cocktel.
+Los datos se obtuvieron de un proyecto basado en una planta de producción de una bebida alcohólica enlatada tipo cocktel.<br>
 Tiene como objetivo identificar las ventajas y desventajas asociadas a la inversión en un proyecto antes de la implementación del mismo.
 
 ## Resumen
