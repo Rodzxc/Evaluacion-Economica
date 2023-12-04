@@ -20,7 +20,8 @@ El siguiente trabajo contempla:
 
 ## Resultados
 Este proyecto permite crear diversos escenarios al cambiar los parámetros antes
-mencionados. Al utilizar ambos métodos la rentabilidad del proyecto se puede estudiar más profundamente y obtener conclusiones de valor.
+mencionados.<br> 
+Al utilizar ambos métodos la rentabilidad del proyecto se puede estudiar más profundamente y obtener conclusiones de valor.
 
 Dados los parámetros iniciales del año 1:
 
