@@ -32,3 +32,7 @@ Dados los parámetros iniciales del año 1:
 - Tasa del Costo Oportunidad (COK) = 14.5%.
 
 El proyecto se presume rentable en varios escenarios.
+
+
+## 
+![Flujo_de_fondos](https://github.com/Rodzxc/Evaluacion_economica/assets/133074545/de00017c-f805-468d-adc6-ae85c146ce0e)
