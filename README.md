@@ -31,7 +31,8 @@ Dados los parámetros iniciales del año 1:
 - Costo de Administración = 24852.90 USD.
 - Tasa del Costo Oportunidad (COK) = 14.5%.
 
-El proyecto se presume rentable en la mayoría de los escenarios planteados.
+> [!NOTE]
+> El proyecto se presume rentable en la mayoría de los escenarios planteados.
 
 
 ## 
